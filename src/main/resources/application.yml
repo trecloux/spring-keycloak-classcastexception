@@ -1,0 +1,7 @@
+keycloak:
+  realm: 
+  auth-server-url:
+  resource:
+  public-client: true
+  cors: true
+
